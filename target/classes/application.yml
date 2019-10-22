@@ -1,4 +1,4 @@
-server:0
+server:
   port: 80
   path: /hello
 
@@ -13,4 +13,4 @@ person:
       - xiongfeng
     dog:
       dogName: Ahui
-      age: 3
+      age: 2
