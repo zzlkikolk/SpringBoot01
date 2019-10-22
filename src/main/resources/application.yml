@@ -1,0 +1,16 @@
+server:0
+  port: 80
+  path: /hello
+
+person:
+    lastName: ZhiBaBa
+    age: 20
+    boos: true
+    birth: 1999/07/17
+    map: {k1: v1,k2: v2}
+    list:
+      - lihui
+      - xiongfeng
+    dog:
+      dogName: Ahui
+      age: 2
