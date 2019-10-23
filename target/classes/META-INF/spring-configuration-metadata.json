@@ -30,8 +30,14 @@
       "sourceType": "com.test.springboot1.Bean.Person"
     },
     {
+      "name": "person.email",
+      "type": "java.lang.String",
+      "sourceType": "com.test.springboot1.Bean.Person"
+    },
+    {
       "name": "person.last-name",
       "type": "java.lang.String",
+      "description": "<bean class=\"Person\">     <property name=\"lastName\" value=\"xx\"\/> <\/bean>",
       "sourceType": "com.test.springboot1.Bean.Person"
     },
     {
